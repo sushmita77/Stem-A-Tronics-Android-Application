@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "250333243232",
+    "firebase_url": "https://blaa-66c18.firebaseio.com",
+    "project_id": "blaa-66c18",
+    "storage_bucket": "blaa-66c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250333243232:android:b7d0377de46fbf47",
+        "android_client_info": {
+          "package_name": "com.example.sumi0717.robocon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250333243232-p81db2t97fhlv7j1m2j547uh0jech88b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ6P2AhfXBO3RxF-z1Hy_kTRG_6_LDsYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
